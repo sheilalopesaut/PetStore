@@ -1,0 +1,18 @@
+{
+  "id": 2001010323,
+  "category": {
+    "id": 1,
+    "name": "AX4445SHEI"
+  },
+  "name": "Taliba",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 20210812,
+      "name": "data"
+    }
+  ],
+  "status": "sold"
+}
